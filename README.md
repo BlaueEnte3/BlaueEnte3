@@ -1,4 +1,4 @@
-## Expo Go developer and full-stack web developer.
+## Expo and full-stack web developer.
 
 ### Languages 
 [![Languages](https://skillicons.dev/icons?i=ts,python,java,nodejs,js,html,css)](https://skillicons.dev)
